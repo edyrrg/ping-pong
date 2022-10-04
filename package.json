@@ -1,0 +1,27 @@
+{
+  "name": "ping-pong",
+  "version": "1.0.0",
+  "description": "API to bootcamp Fundamentals by CoreCode",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edyrrg/ping-pong.git"
+  },
+  "keywords": [
+    "Express.js",
+    "Node.js",
+    "JavaScript"
+  ],
+  "author": "Edy Rojas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edyrrg/ping-pong/issues"
+  },
+  "homepage": "https://github.com/edyrrg/ping-pong#readme",
+  "devDependencies": {
+    "express": "^4.18.1"
+  }
+}
